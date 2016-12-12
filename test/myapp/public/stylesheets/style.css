@@ -1,0 +1,91 @@
+body {
+
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url(http://www.meh.ro/original/2009_10/meh.ro599.jpg);
+  background-attachment: inherit;
+}
+
+a {
+  color: #00B7FF;
+  font-family: 'Coming Soon', cursive;
+}
+
+
+.main {
+  width: 450px;
+  margin: 10px;
+  float: left;
+  position: relative;
+  
+}
+.main:hover{
+  opacity: 0.8;
+  top: 300px;
+}
+.main1 {
+  width: 450px;
+  margin: 10px;
+  float: left;
+  margin-top: 450px;
+  position: relative;
+}
+.main1:hover{
+  opacity: 0.8;
+  left: 300px;
+}
+.main2{
+   width: 450px;
+  margin: 10px;
+  float: left;
+ position: relative;
+
+}
+.main2:hover{
+  opacity: 0.8;
+  left: -330px;
+
+
+
+}
+.main3 {
+  width: 450px;
+  margin: 10px;
+  float: left;
+  margin-top: 450px;
+  position: relative;
+}
+.main3:hover{
+  opacity: 0.8;
+  top: -300px;
+}
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url(https://fonts.gstatic.com/s/materialicons/v19/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+html, body {
+  background: #222;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #555;
+}
